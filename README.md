@@ -6,9 +6,6 @@
 <p align='center'>
 </p>
 
-
-[![Github](https://img.shields.io/github/followers/IndraW01?label=Follow&style=social)](https://github.com/IndraW01)
-
 <div size='20px'> Hi! My name is Indra Wijaya. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
